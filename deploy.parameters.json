@@ -5,32 +5,32 @@
       "appName": {
         "type": "string",
         "metadata": {
-          "description": "Name of the web app"
+          "description": "MyMvcApp"
         }
       },
       "location": {
         "type": "string",
         "metadata": {
-          "description": "Location for all resources"
+          "description": "Canada Central"
         }
       },
       "sku": {
         "type": "string",
         "defaultValue": "S1",
         "metadata": {
-          "description": "SKU of the App Service Plan"
+          "description": "Standard"
         }
       },
       "hostingPlanName": {
         "type": "string",
         "metadata": {
-          "description": "Name of the App Service Plan"
+          "description": "ASP-GitHubCopilotChallenges-ab3b"
         }
       },
       "resourceGroupName": {
         "type": "string",
         "metadata": {
-          "description": "Name of the resource group"
+          "description": "GitHub-Copilot-Challenges"
         }
       }
     }
